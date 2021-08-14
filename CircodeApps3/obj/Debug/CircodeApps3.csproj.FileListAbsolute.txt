@@ -1,0 +1,11 @@
+C:\Programas\CircodeApps3\CircodeApps3\bin\Debug\CircodeApps3.exe.config
+C:\Programas\CircodeApps3\CircodeApps3\bin\Debug\CircodeApps3.exe
+C:\Programas\CircodeApps3\CircodeApps3\bin\Debug\CircodeApps3.pdb
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.csproj.AssemblyReference.cache
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormPrincipal.resources
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.Properties.Resources.resources
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.csproj.GenerateResource.cache
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.csproj.CoreCompileInputs.cache
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.exe
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.pdb
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormConversorMoeda.resources
