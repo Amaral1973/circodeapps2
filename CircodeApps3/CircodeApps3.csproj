@@ -52,6 +52,18 @@
     <Compile Include="FormConversorMoeda.Designer.cs">
       <DependentUpon>FormConversorMoeda.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormIMC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIMC.Designer.cs">
+      <DependentUpon>FormIMC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMegaSena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMegaSena.Designer.cs">
+      <DependentUpon>FormMegaSena.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +74,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormConversorMoeda.resx">
       <DependentUpon>FormConversorMoeda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIMC.resx">
+      <DependentUpon>FormIMC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMegaSena.resx">
+      <DependentUpon>FormMegaSena.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>

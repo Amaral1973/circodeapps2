@@ -112,6 +112,7 @@ namespace CircodeApps3
             this.picboxIMC.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picboxIMC.TabIndex = 6;
             this.picboxIMC.TabStop = false;
+            this.picboxIMC.Click += new System.EventHandler(this.picboxIMC_Click);
             // 
             // lblIMC
             // 
@@ -152,6 +153,7 @@ namespace CircodeApps3
             this.picboxMegaSena.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picboxMegaSena.TabIndex = 10;
             this.picboxMegaSena.TabStop = false;
+            this.picboxMegaSena.Click += new System.EventHandler(this.picboxMegaSena_Click);
             // 
             // lblMegaSena
             // 

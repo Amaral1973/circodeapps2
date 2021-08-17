@@ -27,5 +27,17 @@ namespace CircodeApps3
             FormConversorMoeda conversor = new FormConversorMoeda();
             conversor.Show();
         }
+
+        private void picboxIMC_Click(object sender, EventArgs e)
+        {
+            FormIMC imc = new FormIMC();
+            imc.Show();
+        }
+
+        private void picboxMegaSena_Click(object sender, EventArgs e)
+        {
+            FormMegaSena mega = new FormMegaSena();
+            mega.Show();
+        }
     }
 }
