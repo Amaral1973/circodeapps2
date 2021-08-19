@@ -33,6 +33,7 @@ namespace CircodeApps3
             this.btnSair = new System.Windows.Forms.Button();
             this.btnSortear = new System.Windows.Forms.Button();
             this.lblNúmeros = new System.Windows.Forms.Label();
+            this.cbxJogo = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // lbNumeros
@@ -74,11 +75,23 @@ namespace CircodeApps3
             this.lblNúmeros.TabIndex = 3;
             this.lblNúmeros.Text = "Números Sorteados";
             // 
+            // cbxJogo
+            // 
+            this.cbxJogo.FormattingEnabled = true;
+            this.cbxJogo.Items.AddRange(new object[] {
+            "Megasena",
+            "Lotofácil"});
+            this.cbxJogo.Location = new System.Drawing.Point(158, 38);
+            this.cbxJogo.Name = "cbxJogo";
+            this.cbxJogo.Size = new System.Drawing.Size(115, 21);
+            this.cbxJogo.TabIndex = 4;
+            // 
             // FormMegaSena
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(271, 200);
+            this.ClientSize = new System.Drawing.Size(281, 200);
+            this.Controls.Add(this.cbxJogo);
             this.Controls.Add(this.lblNúmeros);
             this.Controls.Add(this.btnSortear);
             this.Controls.Add(this.btnSair);
@@ -99,5 +112,6 @@ namespace CircodeApps3
         private System.Windows.Forms.Button btnSair;
         private System.Windows.Forms.Button btnSortear;
         private System.Windows.Forms.Label lblNúmeros;
+        private System.Windows.Forms.ComboBox cbxJogo;
     }
 }

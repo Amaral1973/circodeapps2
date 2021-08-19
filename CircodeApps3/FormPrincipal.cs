@@ -39,5 +39,11 @@ namespace CircodeApps3
             FormMegaSena mega = new FormMegaSena();
             mega.Show();
         }
+
+        private void picboxGeradordeSenha_Click(object sender, EventArgs e)
+        {
+            FormSenha senha = new FormSenha();
+            senha.Show();
+        }
     }
 }

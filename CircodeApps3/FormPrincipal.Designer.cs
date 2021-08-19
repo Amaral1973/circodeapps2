@@ -92,6 +92,7 @@ namespace CircodeApps3
             this.picboxGeradordeSenha.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picboxGeradordeSenha.TabIndex = 4;
             this.picboxGeradordeSenha.TabStop = false;
+            this.picboxGeradordeSenha.Click += new System.EventHandler(this.picboxGeradordeSenha_Click);
             // 
             // lblGeradordeSenha
             // 

@@ -11,3 +11,4 @@ C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.pdb
 C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormConversorMoeda.resources
 C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormIMC.resources
 C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormMegaSena.resources
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormSenha.resources

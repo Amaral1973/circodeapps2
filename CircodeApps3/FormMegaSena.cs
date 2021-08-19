@@ -24,12 +24,23 @@ namespace CircodeApps3
 
         private void btnSortear_Click(object sender, EventArgs e)
         {
+            string jogo = Convert.ToString(cbxJogo.SelectedItem);
             lbNumeros.Items.Clear();
             lbNumeros.BeginUpdate();
             Random random = new Random();
-            for (int i = 0; i < 6; i++)
+            if (jogo == "Megasena")
             {
-                lbNumeros.Items.Add(random.Next(60));
+                for (int i = 0; i < 6; i++)
+                {
+                    lbNumeros.Items.Add(random.Next(60));
+                }
+            }
+            else
+            {
+                for (int i = 0; i < 15; i++)
+                {
+                    lbNumeros.Items.Add(random.Next(1,25));
+                }
             }
             lbNumeros.EndUpdate();
         }
