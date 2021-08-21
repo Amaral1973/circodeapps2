@@ -134,6 +134,7 @@ namespace CircodeApps3
             this.picboxPoupança.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picboxPoupança.TabIndex = 8;
             this.picboxPoupança.TabStop = false;
+            this.picboxPoupança.Click += new System.EventHandler(this.picboxPoupança_Click);
             // 
             // lblPoupança
             // 
@@ -175,6 +176,7 @@ namespace CircodeApps3
             this.picboxGasolina.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picboxGasolina.TabIndex = 12;
             this.picboxGasolina.TabStop = false;
+            this.picboxGasolina.Click += new System.EventHandler(this.picboxGasolina_Click);
             // 
             // lblGasolina
             // 

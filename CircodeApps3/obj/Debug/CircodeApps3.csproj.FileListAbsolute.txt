@@ -12,3 +12,9 @@ C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormConversorMoeda
 C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormIMC.resources
 C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormMegaSena.resources
 C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormSenha.resources
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormMediaConsumo.resources
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.FormRentabilidade.resources
+C:\Programas\CircodeApps3\CircodeApps3\bin\Debug\CircodeApps3.exe.manifest
+C:\Programas\CircodeApps3\CircodeApps3\bin\Debug\CircodeApps3.application
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.exe.manifest
+C:\Programas\CircodeApps3\CircodeApps3\obj\Debug\CircodeApps3.application

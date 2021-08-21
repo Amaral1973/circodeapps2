@@ -19,7 +19,7 @@ namespace CircodeApps3
 
         private void btnSair_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Application.Exit();
         }
 
         private void picboxConversordeMoeda_Click(object sender, EventArgs e)
@@ -44,6 +44,18 @@ namespace CircodeApps3
         {
             FormSenha senha = new FormSenha();
             senha.Show();
+        }
+
+        private void picboxGasolina_Click(object sender, EventArgs e)
+        {
+            FormMediaConsumo consumo = new FormMediaConsumo();
+            consumo.Show();
+        }
+
+        private void picboxPoupança_Click(object sender, EventArgs e)
+        {
+            FormRentabilidade rentabilidade = new FormRentabilidade();
+            rentabilidade.Show();
         }
     }
 }
